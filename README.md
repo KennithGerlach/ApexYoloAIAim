@@ -3,4 +3,4 @@
 ## TODO List
 - [ ] Curve movement
 - [ ] Automatic cocking lever
-  
+- [ ] Automatic trigger
