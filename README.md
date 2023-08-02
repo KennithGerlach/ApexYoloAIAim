@@ -4,3 +4,4 @@
 - [ ] Curve movement
 - [ ] Automatic cocking lever
 - [ ] Automatic trigger
+- [ ] Automatic continuous transmission
